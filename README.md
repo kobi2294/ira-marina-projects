@@ -25,3 +25,5 @@ And we did the following:
 - Make sure that when applied, it limits the lenghth of the input to 10 chars
 - Please use the input event
 - Please use the value property of the input
+- You do not need regular expressions
+- When the user tries to make a change that passes the 10 chars, revert to the last legal state
